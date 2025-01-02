@@ -1,1 +1,1 @@
-# SQL-Letcode I will solving some of the SQL challnges posted by Leetcode
+# SQL-Leetcode I will solving some of the SQL challnges posted by Leetcode
